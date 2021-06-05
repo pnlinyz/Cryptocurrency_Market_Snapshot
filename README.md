@@ -7,3 +7,8 @@ I follow several tutorials to complete this project :
 
 Web Scraping Crypto Prices With Python[https://towardsdatascience.com/web-scraping-crypto-prices-with-python-41072ea5b5bf]
 
+I get cyrptocurrencies list and market related data from :
+
+CoinMarketCap[https://coinmarketcap.com]
+yfinance[https://pypi.org/project/yfinance/]
+
