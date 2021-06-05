@@ -10,5 +10,6 @@ Web Scraping Crypto Prices With Python[https://towardsdatascience.com/web-scrapi
 I get cyrptocurrencies list and market related data from :
 
 CoinMarketCap[https://coinmarketcap.com]
+
 yfinance[https://pypi.org/project/yfinance/]
 
